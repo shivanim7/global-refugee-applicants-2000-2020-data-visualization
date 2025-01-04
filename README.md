@@ -11,7 +11,9 @@ This project examines trends in global refugee (asylum) applicant data from 2000
 
 We create 3 informative visualizations to display key insights and patterns in the data, which help highlight changes in refugee application numbers over time, as well as important trends across regions and countries.
 
-### View Visualizations & Analysis  
+*Note: To view the below HTML files in this repo in their rendered format, follow the link, download the files, and open them in your browser.*
+
+## View Visualizations & Analysis  
 - [Visualizations and Analysis Article (HTML)](visualizations_and_analysis.html) - A brief article featuring the visualizations along with an analysis of the insights and trends found in the data.
 
 ## View Technical Methods & Source Code
